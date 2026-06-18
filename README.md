@@ -19,12 +19,13 @@ AWS Cloud Infrastructure to host a new secure database in YAML and imported usin
 
 
 ## Features
+Quick Deploy of Infrastructure needed to host new referral web application for social workers and legal attorney across the u.s
+- High Avialble Database
+- Secure Network Infrastructure
+- Scalaing capabilties
+- Email Notifications
+- Frontend Access with content delivery across the u.s
 
-- Asset tracking
-- Device assignment
-- Employee lookup
-- Reporting
-- Lifecycle management
 
 ## Architectural and Data Flow Diagram
 
