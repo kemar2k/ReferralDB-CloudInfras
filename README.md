@@ -33,7 +33,7 @@ Quick Deploy of Infrastructure needed to host new referral web application for s
 
 
 ## iAC CloudFormation 
-
+```yaml
 AWSTemplateFormatVersion: "2010-09-09"
 Description: >
   PHP web app infra in us-east-2: VPC (2 public + 2 private subnets),
@@ -969,3 +969,4 @@ Outputs:
   DBEncryptionKeyArn:
     Condition: CreateNewKms
     Value: !GetAtt DBKmsKey.Arn
+```
