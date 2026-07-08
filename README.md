@@ -29,6 +29,9 @@ Quick Deploy of Infrastructure needed to host new referral web application for s
 
 ## Architectural and Data Flow Diagram
 
+<img width="1536" height="1024" alt="ReferralDB" src="https://github.com/user-attachments/assets/86d8a2d5-50a5-44c8-b38c-8516898e8125" />
+
+
 ## iAC CloudFormation 
 
 AWSTemplateFormatVersion: "2010-09-09"
